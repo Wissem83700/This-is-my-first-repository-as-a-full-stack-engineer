@@ -1,0 +1,8 @@
+git add .
+git commit -m
+git push
+git switch
+git branch
+git status
+git pull
+git rm
